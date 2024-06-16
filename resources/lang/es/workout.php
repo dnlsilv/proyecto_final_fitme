@@ -1,0 +1,21 @@
+<?php
+
+return [
+    'tittle' => 'Entrenamientos',
+    'sets' => 'Series',
+    'reps' => 'Repeticiones',
+    'weight' => 'Peso',
+    'save' => 'Guardar',
+    'date' => 'Fecha',
+    'search' => 'Buscar...',
+    'add new' => 'Añadir nuevo Ejercicio',
+    'exercise' => 'Ejercicio',
+    'add' => 'Añadir',
+    'emptyWorkout' => 'No hay ningun entrenamiento registrado hoy.',
+    'manage' => 'Administrar Ejercicios',
+    'name' => 'Nombre',
+    'description' => 'Descripción',
+    'options' => 'Opciones',
+    'edit' => 'Editar',
+    'manage' => 'Administrar Ejercicios',
+];
